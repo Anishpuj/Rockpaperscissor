@@ -4,25 +4,25 @@
 - A Rock, Paper, Scissors game built using HTML, CSS, and JavaScript is a simple yet engaging web application that allows users to play the classic hand game against a computer opponent. Here is a brief description of the game's structure and functionalities 
 
 # Description 
-- HTML Structure:
+- HTML Structure:<br>
 `The HTML file includes the basic structure of the game, consisting of elements such as buttons for the rock, paper, and scissors options, a display area for game results, and a scoreboard to keep track of the user's and computer's scores.` 
 
-- CSS Styling:
+- CSS Styling:<br>
 `The CSS file is used to style the elements, creating an intuitive and visually appealing interface. This includes the layout design, button styling, scoreboard appearance, and any additional visual effects for user interaction.`
 
-- JavaScript Functionality:
+- JavaScript Functionality:<br>
 `JavaScript is utilized to provide the game's logic and interactivity. It includes functions that handle user clicks on the rock, paper, or scissors buttons, generate a random choice for the computer opponent, determine the winner based on the chosen options, update the scoreboard, and display the game results.`
 
-- Gameplay Flow:
+- Gameplay Flow:<br>
 `When the user selects one of the options (rock, paper, or scissors), the game compares the user's choice with the computer's random selection and determines the winner based on the traditional rules of the Rock, Paper, Scissors game. The result is displayed on the screen, and the scoreboard is updated accordingly.`
 
-- User Experience:
+- User Experience:<br>
 `The game provides a seamless and interactive user experience, with clear instructions and visual feedback on each round's outcome. It allows the user to play multiple rounds, keeping track of their score and the computer's score throughout the game.`
 
-- Responsive Design:
+- Responsive Design:<br>
 `The game is designed to be responsive, ensuring that it functions well across various devices and screen sizes, providing an optimal gaming experience for users on both desktop and mobile devices.`
 
-- Reset and Replay:
+- Reset and Replay:<br>
 `A reset option is included to allow users to restart the game or play another round, resetting the scoreboard and clearing the previous game results for a new gameplay session.`
 ## Screenshot
 
